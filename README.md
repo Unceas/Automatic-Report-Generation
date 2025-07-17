@@ -56,13 +56,7 @@ Task2:
 
 🚀 How to Run
 
-➡️ Clone this repo.
-
- bash
- 
-   git clone https://github.com/yourusername/auto-report-generator.git
-
-   cd auto-report-generator
+➡️ Copy the code.
    
 ➡️ Install dependencies:
 
